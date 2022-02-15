@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @premchandmullamuri
 - 👀 I’m interested in ...Developing
-- 🌱 I’m currently learning ...Selenium
 - 💞️ I’m looking to collaborate on ...LinkedIn
 - 📫 How to reach me ...+91 9542990516
 
