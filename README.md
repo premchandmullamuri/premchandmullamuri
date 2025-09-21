@@ -1,6 +1,6 @@
-I’m a passionate and results-driven Senior Full Stack Developer with over 5 years of experience architecting, developing, and delivering high-impact software solutions across financial services, insurance, and enterprise technology domains.
+I’m a passionate and results-driven  Full Stack Developer with around 5 years of experience architecting, developing, and delivering high-impact software solutions across financial services, insurance, and enterprise technology domains.
 
-My core strengths lie in designing scalable, cloud-native applications using Java, Spring Boot, Angular, React.js, and AWS. From re-architecting legacy monoliths into modular microservices to leading mission-critical cloud migration and modernization initiatives, I bring both deep technical know-how and a strategic business mindset to the table.
+My core strengths lie in designing scalable, cloud-native applications using Java, Spring Boot, Angular, React.js, Node.js, and AWS. From re-architecting legacy monoliths into modular microservices to leading mission-critical cloud migration and modernization initiatives, I bring both deep technical know-how and a strategic business mindset to the table.
 
 I have a strong foundation in:
 
